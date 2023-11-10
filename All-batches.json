@@ -1,0 +1,102 @@
+[
+  {
+    "_id": "650aef08201c85f27ecb9bc2",
+    "batch_id": "64f2f4f0eda6c6001857537earjuna-jee-fastrack-2024-522244",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/323377f1-5251-4091-8648-fbaa5a9e7a5f.jpeg",
+    "batch_class": "11",
+    "batch_exam": "IIT-JEE",
+    "batch_name": "Arjuna JEE Fastrack 2024",
+    "batch_slug": "arjuna-jee-fastrack-2024-522244",
+    "batch_start_date": "2023-09-19T18:30:00.000Z"
+  },
+  {
+    "_id": "6512a84a201c85f27ec0bd01",
+    "batch_id": "65099568e794680018524516arjuna-jee-air-recorded-496949",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/12b6594f-8e49-42de-8661-59ae6ee045e5.png",
+    "batch_class": "11",
+    "batch_exam": "IIT-JEE",
+    "batch_name": "Arjuna JEE AIR recorded",
+    "batch_slug": "arjuna-jee-air-recorded-496949",
+    "batch_start_date": "2023-09-19T18:30:00.000Z"
+  },
+  {
+    "_id": "6509b046201c85f27ea872fd",
+    "batch_id": "649fe28b394101001896bb9aarjuna-jee-3-0-2024-443966",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9b89f594-56a7-4e70-8eaf-e2c5f04133b2.jpg",
+    "batch_class": "11",
+    "batch_exam": "IIT-JEE",
+    "batch_name": "Arjuna JEE 3.0 2024",
+    "batch_slug": "arjuna-jee-3-0-2024-443966",
+    "batch_start_date": "2023-07-16T18:30:00.000Z"
+  },
+  {
+    "_id": "6509afd4201c85f27ea85d55",
+    "batch_id": "63fc5bce692ade0018aa43daarjuna-jee-2-0-2024-429328",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/fb183d76-1b04-4cda-9e79-6752b06fb85e.jpeg",
+    "batch_class": "11",
+    "batch_exam": "IIT-JEE",
+    "batch_name": "Arjuna JEE 2.0 2024",
+    "batch_slug": "arjuna-jee-2-0-2024-429328",
+    "batch_start_date": "2023-05-28T18:30:00.000Z"
+  },
+  {
+    "_id": "6509af4f201c85f27ea84798",
+    "batch_id": "63faf32217735c00182ada5barjuna-jee-2024-626729",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a141b18e-ed34-4889-95a8-ffc0d460e118.png",
+    "batch_class": "11",
+    "batch_exam": "IIT-JEE",
+    "batch_name": "Arjuna JEE 2024",
+    "batch_slug": "arjuna-jee-2024-626729",
+    "batch_start_date": "2023-04-09T18:30:00.000Z"
+  },
+  {
+    "_id": "650dd0fe201c85f27e2943c4",
+    "batch_id": "63512f4e5a267d0012af6777arjuna-jee-fastrack-course-352103",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/38f4ba2a-5cd7-4b3f-b59e-ba54783762e1.png",
+    "batch_class": "11",
+    "batch_exam": "IIT-JEE",
+    "batch_name": "Arjuna JEE Fastrack Course",
+    "batch_slug": "arjuna-jee-fastrack-course-352103",
+    "batch_start_date": "2022-11-06T18:30:00.000Z"
+  },
+  {
+    "_id": "650963a3201c85f27e9fe22f",
+    "batch_id": "6311e4e0b068e6001107eb9farjuna-jee-3-0-2023-122808",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8ae75dcf-2d2e-4fe6-897e-1e6e13efd06d.png",
+    "batch_class": "11",
+    "batch_exam": "IIT-JEE",
+    "batch_name": "Arjuna JEE 3.0 2023",
+    "batch_slug": "arjuna-jee-3-0-2023-122808",
+    "batch_start_date": "2022-09-25T18:30:00.000Z"
+  },
+  {
+    "_id": "65096294201c85f27e9fbcdb",
+    "batch_id": "62230a31a4e7e50019e874ebarjuna-jee-2-0-2023-234727",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bbe6d693-7ff6-4daf-ad0f-a8469038cc1b.png",
+    "batch_class": "11",
+    "batch_exam": "IIT-JEE",
+    "batch_name": "Arjuna JEE 2.0 2023",
+    "batch_slug": "arjuna-jee-2-0-2023-234727",
+    "batch_start_date": "2022-08-07T18:30:00.000Z"
+  },
+  {
+    "_id": "65096157201c85f27e9f923f",
+    "batch_id": "621c639307e15c0018158759arjuna-jee-2023-426578",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b6de786f-81d5-46bb-b149-6e3d5f19f228.png",
+    "batch_class": "11",
+    "batch_exam": "IIT-JEE",
+    "batch_name": "Arjuna JEE 2023",
+    "batch_slug": "arjuna-jee-2023-426578",
+    "batch_start_date": "2022-06-07T18:30:00.000Z"
+  },
+  {
+    "_id": "65069b35201c85f27e54a4d3",
+    "batch_id": "64f2f5f9eda6c60018575466lakshya-jee-fastrack-2024-791689",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4ff816f0-2e26-487f-a14a-e1359ffafe29.png",
+    "batch_class": "11",
+    "batch_exam": "IIT-JEE",
+    "batch_name": "Lakshya JEE Fastrack 2024",
+    "batch_slug": "lakshya-jee-fastrack-2024-791689",
+    "batch_start_date": "2023-09-19T18:30:00.000Z"
+  }
+]
