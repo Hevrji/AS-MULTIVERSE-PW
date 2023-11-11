@@ -1,0 +1,752 @@
+[
+  {
+    "_id": "65044f2e201c85f27e18ad27",
+    "batch_id": "621c66129f0d7f0018edc9c9neev-2023-958803",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/92fad7d9-b6b7-4128-b28d-41dbcf09093f.png",
+    "batch_class": "9th",
+    "batch_exam": "FOUNDATION",
+    "batch_name": "Neev 2023",
+    "batch_slug": "neev-2023-958803",
+    "batch_start_date": "2022-04-10T18:30:00.000Z"
+  },
+  {
+    "_id": "650450b2201c85f27e18df1e",
+    "batch_id": "628b4ee28f59d20018eed5feneev-2-0-2023-828149",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/799872e3-f47a-4e40-8b6a-cd5a23006f94.png",
+    "batch_class": "9th",
+    "batch_exam": "FOUNDATION",
+    "batch_name": "Neev 2.0 2023",
+    "batch_slug": "neev-2-0-2023-828149",
+    "batch_start_date": "2022-06-30T18:30:00.000Z"
+  },
+  {
+    "_id": "650f0aa1201c85f27e4fc3fb",
+    "batch_id": "63fc94f4769ef90018fd8551neev-2024-155226",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a56ca2ae-362f-42bf-a419-737935a037b4.png",
+    "batch_class": "9th",
+    "batch_exam": "FOUNDATION",
+    "batch_name": "Neev 2024",
+    "batch_slug": "neev-2024-155226",
+    "batch_start_date": "2023-04-09T18:30:00.000Z"
+  },
+  {
+    "_id": "65103fb2201c85f27e761c57",
+    "batch_id": "63fc94f42914d000187e08ebneev-2-0-2024-277906",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7f5fa42e-5d81-4461-a6b1-8e1571d52971.png",
+    "batch_class": "9th",
+    "batch_exam": "FOUNDATION",
+    "batch_name": "Neev 2.0 2024",
+    "batch_slug": "neev-2-0-2024-277906",
+    "batch_start_date": "2023-06-11T18:30:00.000Z"
+  },
+  {
+    "_id": "65103fb0201c85f27e761c1d",
+    "batch_id": "64c4dddfb6ef9a0018fa6362neev-3-0-2024-130305",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1ef94c47-db3e-4ae2-9b1b-792acb633c29.png",
+    "batch_class": "9th",
+    "batch_exam": "FOUNDATION",
+    "batch_name": "Neev 3.0 2024",
+    "batch_slug": "neev-3-0-2024-130305",
+    "batch_start_date": "2023-08-06T18:30:00.000Z"
+  },
+  {
+    "_id": "65103fb3201c85f27e761c7e",
+    "batch_id": "64f306602b956b0018229ce8neev-fastrack-2024-526378",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e012c898-91d8-431d-8271-7cee4e90b537.png",
+    "batch_class": "9th",
+    "batch_exam": "FOUNDATION",
+    "batch_name": "Neev Fastrack 2024",
+    "batch_slug": "neev-fastrack-2024-526378",
+    "batch_start_date": "2023-09-19T18:30:00.000Z"
+  },
+  {
+    "_id": "650ae162201c85f27eca06ac",
+    "batch_id": "621c64da76f11b0018a8acebudaan-2023---10th-cbse-board-659070",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/04a85d80-2793-42ad-bf7c-8eabe5268851.png",
+    "batch_class": "10th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "Udaan 2023 - 10th CBSE Board",
+    "batch_slug": "udaan-2023---10th-cbse-board-659070",
+    "batch_start_date": "2022-04-10T18:30:00.000Z"
+  },
+  {
+    "_id": "6509336f201c85f27e9a830a",
+    "batch_id": "63fc81b613f7a600180bf85audaan-2024-062418",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c4877c96-48f5-413a-aebb-947fe6606d36.jpeg",
+    "batch_class": "10th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "Udaan 2024",
+    "batch_slug": "udaan-2024-062418",
+    "batch_start_date": "2023-04-09T18:30:00.000Z"
+  },
+  {
+    "_id": "65103f38201c85f27e760b28",
+    "batch_id": "645ddd2817770300182507d2udaan-hindi-2024-077953",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e1eec82e-cd35-4e20-95d3-5ca180101e91.png",
+    "batch_class": "10th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "Udaan Hindi 2024",
+    "batch_slug": "udaan-hindi-2024-077953",
+    "batch_start_date": "2023-05-21T18:30:00.000Z"
+  },
+  {
+    "_id": "65093414201c85f27e9a9d22",
+    "batch_id": "63fc81b7f4bb2c001780f50cudaan-2-0-2024-869043",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1a557388-154e-4963-afbc-dbf1ceb47c08.jpeg",
+    "batch_class": "10th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "Udaan 2.0 2024",
+    "batch_slug": "udaan-2-0-2024-869043",
+    "batch_start_date": "2023-06-11T18:30:00.000Z"
+  },
+  {
+    "_id": "6509344e201c85f27e9aa900",
+    "batch_id": "64c4db4ffd8f0100185bfdf4udaan-3-0-2024-204848",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d1054422-7177-4f22-a848-2bf1b7fa913c.jpg",
+    "batch_class": "10th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "Udaan 3.0 2024",
+    "batch_slug": "udaan-3-0-2024-204848",
+    "batch_start_date": "2023-08-06T18:30:00.000Z"
+  },
+  {
+    "_id": "65093483201c85f27e9ab203",
+    "batch_id": "64f39aff217acc0018d5bf71udaan-fastrack-2024-949465",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d70ab680-fbf8-4f3d-bf5b-9a099d64b3b4.jpeg",
+    "batch_class": "10th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "Udaan Fastrack 2024",
+    "batch_slug": "udaan-fastrack-2024-949465",
+    "batch_start_date": "2023-09-19T18:30:00.000Z"
+  },
+  {
+    "_id": "65096157201c85f27e9f923f",
+    "batch_id": "621c639307e15c0018158759arjuna-jee-2023-426578",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b6de786f-81d5-46bb-b149-6e3d5f19f228.png",
+    "batch_class": "11th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Arjuna JEE 2023",
+    "batch_slug": "arjuna-jee-2023-426578",
+    "batch_start_date": "2022-06-07T18:30:00.000Z"
+  },
+  {
+    "_id": "65096294201c85f27e9fbcdb",
+    "batch_id": "62230a31a4e7e50019e874ebarjuna-jee-2-0-2023-234727",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bbe6d693-7ff6-4daf-ad0f-a8469038cc1b.png",
+    "batch_class": "11th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Arjuna JEE 2.0 2023",
+    "batch_slug": "arjuna-jee-2-0-2023-234727",
+    "batch_start_date": "2022-08-07T18:30:00.000Z"
+  },
+  {
+    "_id": "650963a3201c85f27e9fe22f",
+    "batch_id": "6311e4e0b068e6001107eb9farjuna-jee-3-0-2023-122808",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8ae75dcf-2d2e-4fe6-897e-1e6e13efd06d.png",
+    "batch_class": "11th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Arjuna JEE 3.0 2023",
+    "batch_slug": "arjuna-jee-3-0-2023-122808",
+    "batch_start_date": "2022-09-25T18:30:00.000Z"
+  },
+  {
+    "_id": "650dd0fe201c85f27e2943c4",
+    "batch_id": "63512f4e5a267d0012af6777arjuna-jee-fastrack-course-352103",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/38f4ba2a-5cd7-4b3f-b59e-ba54783762e1.png",
+    "batch_class": "11th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Arjuna JEE Fastrack Course",
+    "batch_slug": "arjuna-jee-fastrack-course-352103",
+    "batch_start_date": "2022-11-06T18:30:00.000Z"
+  },
+  {
+    "_id": "6509af4f201c85f27ea84798",
+    "batch_id": "63faf32217735c00182ada5barjuna-jee-2024-626729",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a141b18e-ed34-4889-95a8-ffc0d460e118.png",
+    "batch_class": "11th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Arjuna JEE 2024",
+    "batch_slug": "arjuna-jee-2024-626729",
+    "batch_start_date": "2023-04-09T18:30:00.000Z"
+  },
+  {
+    "_id": "6509afd4201c85f27ea85d55",
+    "batch_id": "63fc5bce692ade0018aa43daarjuna-jee-2-0-2024-429328",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/fb183d76-1b04-4cda-9e79-6752b06fb85e.jpeg",
+    "batch_class": "11th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Arjuna JEE 2.0 2024",
+    "batch_slug": "arjuna-jee-2-0-2024-429328",
+    "batch_start_date": "2023-05-28T18:30:00.000Z"
+  },
+  {
+    "_id": "6509b046201c85f27ea872fd",
+    "batch_id": "649fe28b394101001896bb9aarjuna-jee-3-0-2024-443966",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9b89f594-56a7-4e70-8eaf-e2c5f04133b2.jpg",
+    "batch_class": "11th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Arjuna JEE 3.0 2024",
+    "batch_slug": "arjuna-jee-3-0-2024-443966",
+    "batch_start_date": "2023-07-16T18:30:00.000Z"
+  },
+  {
+    "_id": "650aef08201c85f27ecb9bc2",
+    "batch_id": "64f2f4f0eda6c6001857537earjuna-jee-fastrack-2024-522244",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/323377f1-5251-4091-8648-fbaa5a9e7a5f.jpeg",
+    "batch_class": "11th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Arjuna JEE Fastrack 2024",
+    "batch_slug": "arjuna-jee-fastrack-2024-522244",
+    "batch_start_date": "2023-09-19T18:30:00.000Z"
+  },
+  {
+    "_id": "6512a84a201c85f27ec0bd01",
+    "batch_id": "65099568e794680018524516arjuna-jee-air-recorded-496949",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/12b6594f-8e49-42de-8661-59ae6ee045e5.png",
+    "batch_class": "11th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Arjuna JEE AIR recorded",
+    "batch_slug": "arjuna-jee-air-recorded-496949",
+    "batch_start_date": "2023-09-19T18:30:00.000Z"
+  },
+  {
+    "_id": "651a6ae0201c85f27ebfa463",
+    "batch_id": "6516c41504e5860018726a9earjuna-jee-air-recorded-2-0-727757",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a542fd24-2c26-4b59-94fe-67a9d31747b7.png",
+    "batch_class": "11th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Arjuna JEE AIR Recorded 2.0",
+    "batch_slug": "arjuna-jee-air-recorded-2-0-727757",
+    "batch_start_date": "2023-09-28T18:30:00.000Z"
+  },
+  {
+    "_id": "65071b15201c85f27e622730",
+    "batch_id": "621c630c866696001110ea5barjuna-neet-2023-102667",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/82622793-3ba0-4b0a-a3da-96e17f5a9a0c.jpg",
+    "batch_class": "11th",
+    "batch_exam": "NEET",
+    "batch_name": "Arjuna NEET 2023",
+    "batch_slug": "arjuna-neet-2023-102667",
+    "batch_start_date": "2022-06-07T18:30:00.000Z"
+  },
+  {
+    "_id": "650c69ff201c85f27efbc882",
+    "batch_id": "622309c888d7210011887151arjuna-neet-2-0-2023-158447",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/eb52c1a2-2b12-4a70-987e-068251b846ba.jpg",
+    "batch_class": "11th",
+    "batch_exam": "NEET",
+    "batch_name": "Arjuna NEET 2.0 2023",
+    "batch_slug": "arjuna-neet-2-0-2023-158447",
+    "batch_start_date": "2022-08-07T18:30:00.000Z"
+  },
+  {
+    "_id": "650be337201c85f27ee81103",
+    "batch_id": "6311e3f5726a5d001165ad64arjuna-neet-3-0-2023-557895",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5c89acd5-e36f-46ee-870c-39a70959a458.jpg",
+    "batch_class": "11th",
+    "batch_exam": "NEET",
+    "batch_name": "Arjuna NEET 3.0 2023",
+    "batch_slug": "arjuna-neet-3-0-2023-557895",
+    "batch_start_date": "2022-09-25T18:30:00.000Z"
+  },
+  {
+    "_id": "650c41a9201c85f27ef58abf",
+    "batch_id": "6351303289368d0011f1ee06arjuna-neet-fastrack-course-387745",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/75fcf126-0371-438c-96f1-61dc77512439.png",
+    "batch_class": "11th",
+    "batch_exam": "NEET",
+    "batch_name": "Arjuna NEET Fastrack Course",
+    "batch_slug": "arjuna-neet-fastrack-course-387745",
+    "batch_start_date": "2022-11-06T18:30:00.000Z"
+  },
+  {
+    "_id": "650bd4d1201c85f27ee554af",
+    "batch_id": "63fc53f28aac0a001871320darjuna-neet-2024-683082",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1108b081-c761-43f4-b0d5-408cc01b47df.png",
+    "batch_class": "11th",
+    "batch_exam": "NEET",
+    "batch_name": "Arjuna NEET 2024",
+    "batch_slug": "arjuna-neet-2024-683082",
+    "batch_start_date": "2023-04-09T18:30:00.000Z"
+  },
+  {
+    "_id": "650bd616201c85f27ee597f5",
+    "batch_id": "63fc55ec692ade0018aa3f97arjuna-neet-2-0-2024-306246",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0c9abecd-e261-4108-bd46-16cda09f3101.png",
+    "batch_class": "11th",
+    "batch_exam": "NEET",
+    "batch_name": "Arjuna NEET 2.0 2024",
+    "batch_slug": "arjuna-neet-2-0-2024-306246",
+    "batch_start_date": "2023-05-28T18:30:00.000Z"
+  },
+  {
+    "_id": "650bd687201c85f27ee5b182",
+    "batch_id": "649fe46951e81f0018915735arjuna-neet-3-0-2024-448485",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ffd2b2c9-adc1-4c8b-a9ac-73df404dcc0e.png",
+    "batch_class": "11th",
+    "batch_exam": "NEET",
+    "batch_name": "Arjuna NEET 3.0 2024",
+    "batch_slug": "arjuna-neet-3-0-2024-448485",
+    "batch_start_date": "2023-07-16T18:30:00.000Z"
+  },
+  {
+    "_id": "650bd6d1201c85f27ee5c355",
+    "batch_id": "64f2f345208c130018d7b731arjuna-neet-fastrack-2024-285700",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4e1e1b93-ecca-4302-9a1b-3bc9a99abfb1.png",
+    "batch_class": "11th",
+    "batch_exam": "NEET",
+    "batch_name": "Arjuna NEET Fastrack 2024",
+    "batch_slug": "arjuna-neet-fastrack-2024-285700",
+    "batch_start_date": "2023-09-19T18:30:00.000Z"
+  },
+  {
+    "_id": "650c6df2201c85f27efc59ca",
+    "batch_id": "60509bd2add02600afaa9cdbclass-12th--lakshya-jee-415093",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3657acda-9d26-446f-8431-b01561cba404.jpeg",
+    "batch_class": "12th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Class 12th - Lakshya JEE",
+    "batch_slug": "class-12th--lakshya-jee-415093",
+    "batch_start_date": "2021-03-23T18:30:00.000Z"
+  },
+  {
+    "_id": "6502b33d201c85f27eef3513",
+    "batch_id": "621c5167a592f502085b0878lakshya-jee-2023-553892",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9ddbe2c1-a4f9-43ee-96cb-0b776a4a2a06.png",
+    "batch_class": "12th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Lakshya JEE 2023",
+    "batch_slug": "lakshya-jee-2023-553892",
+    "batch_start_date": "2022-04-06T18:30:00.000Z"
+  },
+  {
+    "_id": "6502b163201c85f27eeef849",
+    "batch_id": "62230970df9c190018354867lakshya-jee-2-0-2023-014465",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9f0c3627-1463-47af-a3fa-340ff995569c.png",
+    "batch_class": "12th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Lakshya JEE 2.0 2023",
+    "batch_slug": "lakshya-jee-2-0-2023-014465",
+    "batch_start_date": "2022-06-09T18:30:00.000Z"
+  },
+  {
+    "_id": "65124984201c85f27eb5776b",
+    "batch_id": "6351325502a4ac001134e0d7lakshya-jee-fastrack-course-656326",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1f515146-6199-4781-bb78-6ce1ca350624.jpeg",
+    "batch_class": "12th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Lakshya JEE Fastrack Course",
+    "batch_slug": "lakshya-jee-fastrack-course-656326",
+    "batch_start_date": "2022-11-06T18:30:00.000Z"
+  },
+  {
+    "_id": "650c6e36201c85f27efc6739",
+    "batch_id": "639947fd78712e0018150d85lakshya-jee-d2-2024-234440",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d6dd447f-a2dd-499a-bb2c-f812aa855530.png",
+    "batch_class": "12th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Lakshya JEE D2 2024",
+    "batch_slug": "lakshya-jee-d2-2024-234440",
+    "batch_start_date": "2023-03-26T18:30:00.000Z"
+  },
+  {
+    "_id": "6504a8af201c85f27e21b9e5",
+    "batch_id": "63fc49ff5376bb01699a69d5lakshya-jee-2024-911516",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0f6d994a-1f66-44f2-9890-26b603adfcfd.png",
+    "batch_class": "12th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Lakshya JEE 2024",
+    "batch_slug": "lakshya-jee-2024-911516",
+    "batch_start_date": "2023-04-02T18:30:00.000Z"
+  },
+  {
+    "_id": "6505d47e201c85f27e401b84",
+    "batch_id": "63fc56f78aac0a0018713496lakshya-jee-2-0-2024-742427",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/aca09267-0120-44ca-a1ce-96b8c9f7f426.png",
+    "batch_class": "12th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Lakshya JEE 2.0 2024",
+    "batch_slug": "lakshya-jee-2-0-2024-742427",
+    "batch_start_date": "2023-06-11T18:30:00.000Z"
+  },
+  {
+    "_id": "6505665e201c85f27e34e0a1",
+    "batch_id": "64b4e8596339cb00189a489alakshya-jee-3-0-2024-841158",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0a5b6276-630e-4d8d-a6a4-e92d46bdc808.png",
+    "batch_class": "12th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Lakshya JEE 3.0 2024",
+    "batch_slug": "lakshya-jee-3-0-2024-841158",
+    "batch_start_date": "2023-08-06T18:30:00.000Z"
+  },
+  {
+    "_id": "6512f219201c85f27ec9f171",
+    "batch_id": "6509bfc867a7ec0018c2ad66lakshya-jee-air-recorded-469038",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/629e0abc-3aa9-40ba-8d85-592b46b6aa90.png",
+    "batch_class": "12th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Lakshya JEE AIR recorded",
+    "batch_slug": "lakshya-jee-air-recorded-469038",
+    "batch_start_date": "2023-09-19T18:30:00.000Z"
+  },
+  {
+    "_id": "65069b35201c85f27e54a4d3",
+    "batch_id": "64f2f5f9eda6c60018575466lakshya-jee-fastrack-2024-791689",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4ff816f0-2e26-487f-a14a-e1359ffafe29.png",
+    "batch_class": "12th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Lakshya JEE Fastrack 2024",
+    "batch_slug": "lakshya-jee-fastrack-2024-791689",
+    "batch_start_date": "2023-09-19T18:30:00.000Z"
+  },
+  {
+    "_id": "6509dbcb201c85f27ead6368",
+    "batch_id": "621c50da336af600182450b3lakshya-neet-2023-020071",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5a92ca26-2348-4874-8b83-07d8f7ed68c0.png",
+    "batch_class": "12th",
+    "batch_exam": "NEET",
+    "batch_name": "Lakshya NEET 2023",
+    "batch_slug": "lakshya-neet-2023-020071",
+    "batch_start_date": "2022-04-07T00:00:00.000Z"
+  },
+  {
+    "_id": "650c445b201c85f27ef5eede",
+    "batch_id": "622305d28482d1001820f9ablakshya-neet-2-0-2023-750345",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/79558cac-307f-4016-b9af-3e971ef2406f.png",
+    "batch_class": "12th",
+    "batch_exam": "NEET",
+    "batch_name": "Lakshya NEET 2.0 2023",
+    "batch_slug": "lakshya-neet-2-0-2023-750345",
+    "batch_start_date": "2022-06-09T18:30:00.000Z"
+  },
+  {
+    "_id": "65056bb6201c85f27e356c75",
+    "batch_id": "63fc806e5a432d00189ef863lakshya-neet-2024-980734",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/eb81e8de-3a71-4f86-9cfc-78170427c211.png",
+    "batch_class": "12th",
+    "batch_exam": "NEET",
+    "batch_name": "Lakshya NEET 2024",
+    "batch_slug": "lakshya-neet-2024-980734",
+    "batch_start_date": "2023-04-02T18:30:00.000Z"
+  },
+  {
+    "_id": "65057901201c85f27e36ca24",
+    "batch_id": "63fc806f7717ab0018974c2dlakshya-neet-2-0-2024-562296",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/aa9a4217-229d-44e2-adae-0cc2ece3a31a.png",
+    "batch_class": "12th",
+    "batch_exam": "NEET",
+    "batch_name": "Lakshya NEET 2.0 2024",
+    "batch_slug": "lakshya-neet-2-0-2024-562296",
+    "batch_start_date": "2023-06-18T18:30:00.000Z"
+  },
+  {
+    "_id": "65057a05201c85f27e36e690",
+    "batch_id": "64b4eb39d4213000181031aclakshya-neet-3-0-2024-600012",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f7c71ef8-7ef1-44cf-8583-978f6d321846.png",
+    "batch_class": "12th",
+    "batch_exam": "NEET",
+    "batch_name": "Lakshya NEET 3.0 2024",
+    "batch_slug": "lakshya-neet-3-0-2024-600012",
+    "batch_start_date": "2023-08-06T18:30:00.000Z"
+  },
+  {
+    "_id": "650c592e201c85f27ef95d8b",
+    "batch_id": "64f2f76050b7b60019f17d7clakshya-neet-fastrack-2024-434141",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b26f4bbc-b2d4-4df9-b675-39cb24b63a16.jpeg",
+    "batch_class": "12th",
+    "batch_exam": "NEET",
+    "batch_name": "Lakshya NEET Fastrack 2024",
+    "batch_slug": "lakshya-neet-fastrack-2024-434141",
+    "batch_start_date": "2023-09-17T18:30:00.000Z"
+  },
+  {
+    "_id": "650be1ac201c85f27ee7cf36",
+    "batch_id": "628b50055b231b0018a8712cprayas-2023-617434",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/453e26e9-2662-4335-ba88-a22961ff8595.png",
+    "batch_class": "12th+",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Prayas 2023",
+    "batch_slug": "prayas-2023-617434",
+    "batch_start_date": "2022-06-30T18:30:00.000Z"
+  },
+  {
+    "_id": "650bd8a4201c85f27ee61d9d",
+    "batch_id": "62e53234c6cee700112e96f7prayas-2-0-2023-458229",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d9f78f20-fdd8-4391-9f61-c399387900a6.jpeg",
+    "batch_class": "12th+",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Prayas 2.0 2023",
+    "batch_slug": "prayas-2-0-2023-458229",
+    "batch_start_date": "2022-08-07T18:30:00.000Z"
+  },
+  {
+    "_id": "650c01a6201c85f27eeccf7b",
+    "batch_id": "63104fe52aebad00181968f8prayas-hindi-2023-556854",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3b83d0ea-59df-47b4-8d4c-5cd4ff6feb6c.png",
+    "batch_class": "12th+",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Prayas Hindi 2023",
+    "batch_slug": "prayas-hindi-2023-556854",
+    "batch_start_date": "2022-09-14T18:30:00.000Z"
+  },
+  {
+    "_id": "650be11e201c85f27ee7ab0f",
+    "batch_id": "63104ec1edfcb50011df477bprayas-3-0-2023-821341",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0992d8af-237e-4e31-9865-c8b44d342227.png",
+    "batch_class": "12th+",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Prayas 3.0 2023",
+    "batch_slug": "prayas-3-0-2023-821341",
+    "batch_start_date": "2022-09-14T18:30:00.000Z"
+  },
+  {
+    "_id": "6506c159201c85f27e58a2c4",
+    "batch_id": "63fc59915afeaf0018c9a577prayas-jee-2024-430915",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/884d9b86-dc1e-451d-95f0-68fbd11a64d5.png",
+    "batch_class": "12th+",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Prayas JEE 2024",
+    "batch_slug": "prayas-jee-2024-430915",
+    "batch_start_date": "2023-04-16T18:30:00.000Z"
+  },
+  {
+    "_id": "650feada201c85f27e6ad369",
+    "batch_id": "64637e914a45380018265f71prayas-jee-hindi-2024-003670",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/6637b5a4-0e6f-46d2-80cf-c731c9d5fe3c.png",
+    "batch_class": "12th+",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Prayas JEE Hindi 2024",
+    "batch_slug": "prayas-jee-hindi-2024-003670",
+    "batch_start_date": "2023-06-06T18:30:00.000Z"
+  },
+  {
+    "_id": "6506c25a201c85f27e58c292",
+    "batch_id": "63fc59932e4023005af4d8cfprayas-jee-2-0-2024-952921",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d7006441-321d-410a-ace9-aadf41df5013.png",
+    "batch_class": "12th+",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Prayas JEE 2.0 2024",
+    "batch_slug": "prayas-jee-2-0-2024-952921",
+    "batch_start_date": "2023-06-06T18:30:00.000Z"
+  },
+  {
+    "_id": "6506c2f1201c85f27e58d65c",
+    "batch_id": "648d5c070dcb19001804335cprayas-jee-3-0-2024-377536",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/660ab94a-436f-4fc4-9248-08e128d6daa6.png",
+    "batch_class": "12th+",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Prayas JEE 3.0 2024",
+    "batch_slug": "prayas-jee-3-0-2024-377536",
+    "batch_start_date": "2023-07-23T18:30:00.000Z"
+  },
+  {
+    "_id": "6512e2d7201c85f27ec7d517",
+    "batch_id": "650a95653095c400186891a4prayas-jee-air-recorded-342170",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b1bf186c-3621-40da-8f1a-75a9f8266975.jpeg",
+    "batch_class": "12th+",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Prayas JEE AIR recorded",
+    "batch_slug": "prayas-jee-air-recorded-342170",
+    "batch_start_date": "2023-09-19T18:30:00.000Z"
+  },
+  {
+    "_id": "6506c3e0201c85f27e58f678",
+    "batch_id": "64f2f85c50b7b60019f17e48prayas-jee-fastrack-2024-318706",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f029af8b-93a9-4421-9179-4324d185151a.png",
+    "batch_class": "12th+",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Prayas JEE Fastrack 2024",
+    "batch_slug": "prayas-jee-fastrack-2024-318706",
+    "batch_start_date": "2023-09-24T18:30:00.000Z"
+  },
+  {
+    "_id": "651bec45201c85f27ef54b5e",
+    "batch_id": "6516cb7809daf400185b9c74prayas-jee-air-recorded-2-0-806086",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c9243623-3d96-4a4f-a772-9613c0914b81.png",
+    "batch_class": "12th+",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Prayas JEE AIR Recorded 2.0",
+    "batch_slug": "prayas-jee-air-recorded-2-0-806086",
+    "batch_start_date": "2023-09-28T18:30:00.000Z"
+  },
+  {
+    "_id": "650d85b1201c85f27e1f07cf",
+    "batch_id": "5f709ef9046c60012e0bf622dropper-neet--yakeen-for-neet-2021-708271",
+    "batch_banner": "https://d1qs8w2pzjtoy9.cloudfront.net/5eb393ee95fab7468a79d189/c75ab90f-f241-488c-82d1-8d3a7df8d89f.jpeg",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Dropper NEET - Yakeen for NEET 2021",
+    "batch_slug": "dropper-neet--yakeen-for-neet-2021-708271",
+    "batch_start_date": "2020-09-30T18:30:00.000Z"
+  },
+  {
+    "_id": "650d2342201c85f27e11f9c0",
+    "batch_id": "60bf55d99dee1c001f2f0981dropper-neet-yakeen-2022-236250",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4f6eebcc-8c81-443e-9390-de372e68c345.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Dropper NEET - Yakeen 2022",
+    "batch_slug": "dropper-neet-yakeen-2022-236250",
+    "batch_start_date": "2021-06-19T18:30:00.000Z"
+  },
+  {
+    "_id": "650becea201c85f27ee9d3a9",
+    "batch_id": "614ce159814a290018c5f335dropper-neet-yakeen-hindi-medium-016747",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5e7758be-fe70-44a9-8226-b5f710903f9e.jpeg",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Dropper NEET Yakeen Hindi Medium",
+    "batch_slug": "dropper-neet-yakeen-hindi-medium-016747",
+    "batch_start_date": "2021-09-30T18:30:00.000Z"
+  },
+  {
+    "_id": "650d2002201c85f27e117fa8",
+    "batch_id": "613f3f0b09fa3d001891a954dropper-neet-yakeen-2-939395",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/96c7e1b0-9781-4534-910a-5f30cb779719.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Dropper NEET Yakeen 2",
+    "batch_slug": "dropper-neet-yakeen-2-939395",
+    "batch_start_date": "2021-10-01T18:30:00.000Z"
+  },
+  {
+    "_id": "650bf4e8201c85f27eeb09ea",
+    "batch_id": "628b4fab75ab0500184da8d9yakeen-2023-884005",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3600b657-22d0-49cb-aa62-ff52f5dccb05.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Yakeen 2023",
+    "batch_slug": "yakeen-2023-884005",
+    "batch_start_date": "2022-06-19T18:30:00.000Z"
+  },
+  {
+    "_id": "650bf1e3201c85f27eeaa3a2",
+    "batch_id": "62c825d387a0fa001196e753yakeen-2-0-2023-387343",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c91a4730-b948-43d6-a3b5-3512917676d9.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Yakeen 2.0 2023",
+    "batch_slug": "yakeen-2-0-2023-387343",
+    "batch_start_date": "2022-07-27T18:30:00.000Z"
+  },
+  {
+    "_id": "6512e6ef201c85f27ec864c2",
+    "batch_id": "62e4da6cc3034300115f80b2yakeen-english-2023-692284",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a12ef7c4-bc1c-4cac-9cca-8dfb3f533d58.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Yakeen English 2023",
+    "batch_slug": "yakeen-english-2023-692284",
+    "batch_start_date": "2022-08-07T18:30:00.000Z"
+  },
+  {
+    "_id": "650be78b201c85f27ee8c91d",
+    "batch_id": "62e398d54ec3920018f248c0yakeen-hindi-2023-544651",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ba567d70-e2b8-42ac-8a37-4bd6a66b6569.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Yakeen Hindi 2023",
+    "batch_slug": "yakeen-hindi-2023-544651",
+    "batch_start_date": "2022-08-07T18:30:00.000Z"
+  },
+  {
+    "_id": "650bea9e201c85f27ee961ca",
+    "batch_id": "6311e6d672502100174a6c14yakeen-3-0-2023-015950",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8ca907a0-1dae-44e8-91e5-6ee14ac9fa33.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Yakeen 3.0 2023",
+    "batch_slug": "yakeen-3-0-2023-015950",
+    "batch_start_date": "2022-09-18T18:30:00.000Z"
+  },
+  {
+    "_id": "650e7dbd201c85f27e3d6fac",
+    "batch_id": "635134af6b0243001191fe8ayakeen-fastrack-course-231638",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4c0d3308-b562-4b6d-bcb8-3c4f0679bef0.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Yakeen Fastrack Course",
+    "batch_slug": "yakeen-fastrack-course-231638",
+    "batch_start_date": "2022-11-06T18:30:00.000Z"
+  },
+  {
+    "_id": "6509cc9e201c85f27eabb0a5",
+    "batch_id": "63fc57995afeaf0018c9a4b1yakeen-neet-2024-759724",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/5bb35c70-cb20-4aac-8807-ca10b20b0680.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Yakeen NEET 2024",
+    "batch_slug": "yakeen-neet-2024-759724",
+    "batch_start_date": "2023-04-09T18:30:00.000Z"
+  },
+  {
+    "_id": "6509de0b201c85f27eadb0fe",
+    "batch_id": "63fc58ed46bb3f00189d3c6dyakeen-neet-2-0-2024-601447",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/60a94731-7e82-40f6-9921-3af6cea35194.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Yakeen NEET 2.0 2024",
+    "batch_slug": "yakeen-neet-2-0-2024-601447",
+    "batch_start_date": "2023-05-17T18:30:00.000Z"
+  },
+  {
+    "_id": "6509e68e201c85f27eaec253",
+    "batch_id": "64637e1d9479b0001805b678yakeen-neet-hindi-2024-130102",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e0970bee-b77f-4668-a752-0d74b02f2a69.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Yakeen NEET Hindi 2024",
+    "batch_slug": "yakeen-neet-hindi-2024-130102",
+    "batch_start_date": "2023-05-28T18:30:00.000Z"
+  },
+  {
+    "_id": "650fe9b9201c85f27e6aae08",
+    "batch_id": "6471af1d226fdf00183ff865yakeen-neet-english-2024-033088",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7b945bec-2799-47bc-865d-08af4d99292b.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Yakeen NEET English 2024",
+    "batch_slug": "yakeen-neet-english-2024-033088",
+    "batch_start_date": "2023-06-18T18:30:00.000Z"
+  },
+  {
+    "_id": "6509e0a6201c85f27eae09e2",
+    "batch_id": "6489711d65dfc900181ac63eyakeen-neet-3-0-2024-334200",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/82ffdc84-7291-4fb4-baf2-f9f550b3cf97.jpeg",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Yakeen NEET 3.0 2024",
+    "batch_slug": "yakeen-neet-3-0-2024-334200",
+    "batch_start_date": "2023-07-02T18:30:00.000Z"
+  },
+  {
+    "_id": "6509e857201c85f27eaef951",
+    "batch_id": "64c901fb452f850018bfc548yakeen-neet-hindi-2-0-2024-545045",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4e9e42f0-20bb-44cf-b720-6e96b73c986d.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Yakeen NEET Hindi 2.0 2024",
+    "batch_slug": "yakeen-neet-hindi-2-0-2024-545045",
+    "batch_start_date": "2023-08-27T18:30:00.000Z"
+  },
+  {
+    "_id": "6509e041201c85f27eadfb7e",
+    "batch_id": "64c902cee9a227001833f097yakeen-neet-4-0-2024-796501",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/95618cb8-cdf9-4703-9d29-9d13c354cae0.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Yakeen NEET 4.0 2024",
+    "batch_slug": "yakeen-neet-4-0-2024-796501",
+    "batch_start_date": "2023-08-27T18:30:00.000Z"
+  },
+  {
+    "_id": "651865cf201c85f27e79a6a5",
+    "batch_id": "651159f4fa2d81001873082cyakeen-neet-5-0-2024-977228",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bc116219-369c-426e-aac2-7737058cb0d3.png",
+    "batch_class": "12th+",
+    "batch_exam": "NEET",
+    "batch_name": "Yakeen NEET 5.0 2024",
+    "batch_slug": "yakeen-neet-5-0-2024-977228",
+    "batch_start_date": "2023-10-08T18:30:00.000Z"
+  }
+]
