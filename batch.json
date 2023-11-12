@@ -748,5 +748,85 @@
     "batch_name": "Yakeen NEET 5.0 2024",
     "batch_slug": "yakeen-neet-5-0-2024-977228",
     "batch_start_date": "2023-10-08T18:30:00.000Z"
+  },
+  {
+    "_id": "650bd2af201c85f27ee4ff7c",
+    "batch_id": "64b2a6677d17cf0018379749parishram-2-0-2024-394734",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8c446ea2-3aee-40db-b2d7-e2cb341ed0b1.png",
+    "batch_class": "12th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "Parishram 2.0 2024",
+    "batch_slug": "parishram-2-0-2024-394734",
+    "batch_start_date": "2023-07-30T18:30:00.000Z"
+  },
+  {
+    "_id": "650bd4da201c85f27ee55cba",
+    "batch_id": "64468e214033fa0018880651parishram-2024-137700",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d9baa890-0436-4072-a737-601e12366832.png",
+    "batch_class": "12th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "Parishram 2024",
+    "batch_slug": "parishram-2024-137700",
+    "batch_start_date": "2023-05-07T18:30:00.000Z"
+  },
+  {
+    "_id": "650d7567201c85f27e1ccd6f",
+    "batch_id": "639b6bdc3ef7c10284e030c2board-booster-for-12th-2023--bangla--281206",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/02cc1334-05ab-4e14-a630-f0f3f6366fe0.png",
+    "batch_class": "12th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "Board Booster for 12th 2023 (Bangla)",
+    "batch_slug": "board-booster-for-12th-2023--bangla--281206",
+    "batch_start_date": "2022-12-16T18:30:00.000Z"
+  },
+  {
+    "_id": "65126f71201c85f27eb9ede5",
+    "batch_id": "639b72ed658a4100aa013d93board-booster-for-12th-2023-marathi--303749",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/dc71f99f-cb1f-44dd-b855-15b653e59ae3.png",
+    "batch_class": "12th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "Board Booster for 12th 2023(Marathi)",
+    "batch_slug": "board-booster-for-12th-2023-marathi--303749",
+    "batch_start_date": "2022-12-16T18:30:00.000Z"
+  },
+  {
+    "_id": "650bdbe5201c85f27ee6a6e7",
+    "batch_id": "6315a85e13532b00115f3ab0parishram-2-0-2023-810484",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/791466b6-157e-481e-bb66-12dcec7abc30.png",
+    "batch_class": "12th",
+    "batch_exam": "BOARD EXAM",
+    "batch_name": "Parishram 2.0 2023",
+    "batch_slug": "parishram-2-0-2023-810484",
+    "batch_start_date": "2022-09-25T18:30:00.000Z"
+  },
+  {
+    "_id": "65199095201c85f27ea2b235",
+    "batch_id": "64f300e6ed46c40018b7a3aaumang-2-0-2024-138394",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9d0b47f3-a023-404d-8167-71c79e72c42e.jpeg",
+    "batch_class": "8th",
+    "batch_exam": "FOUNDATION",
+    "batch_name": "Umang 2.0 2024",
+    "batch_slug": "umang-2-0-2024-138394",
+    "batch_start_date": "2023-09-24T18:30:00.000Z"
+  },
+  {
+    "_id": "6519905d201c85f27ea2a6fb",
+    "batch_id": "63fdc56c2e0ad60018247617umang-2024-104488",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/175793f4-9929-44b7-8540-24742025a46e.png",
+    "batch_class": "8th",
+    "batch_exam": "FOUNDATION",
+    "batch_name": "Umang 2024",
+    "batch_slug": "umang-2024-104488",
+    "batch_start_date": "2023-07-02T18:30:00.000Z"
+  },
+  {
+    "_id": "650c17ab201c85f27eefe680",
+    "batch_id": "63fdc56dd874fb001982c013junoon-2024-531612",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/56dad3e5-b288-4d33-a57b-ef024aa28ca9.png",
+    "batch_class": "7th",
+    "batch_exam": "FOUNDATION",
+    "batch_name": "Junoon 2024",
+    "batch_slug": "junoon-2024-531612",
+    "batch_start_date": "2023-07-02T18:30:00.000Z"
   }
 ]
