@@ -1,5 +1,9 @@
 [
   {
+    "batch_class": "7th",
+    "batch_exam": "FOUNDATION"
+  },
+  {
     "batch_class": "8th",
     "batch_exam": "FOUNDATION"
   },
@@ -9,6 +13,10 @@
   },
   {
     "batch_class": "10th",
+    "batch_exam": "BOARD EXAM"
+  },
+  {
+    "batch_class": "12th",
     "batch_exam": "BOARD EXAM"
   },
   {
