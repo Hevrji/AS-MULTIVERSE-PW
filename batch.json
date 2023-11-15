@@ -908,5 +908,135 @@
     "batch_name": "Fast Track Shaurya NDA  Crash Course",
     "batch_slug": "fast-track-shaurya-nda-crash-course-441840",
     "batch_start_date": "2023-02-09T18:30:00.000Z"
+  },
+  {
+    "_id": "652fd265201c85f27ec1497f",
+    "batch_id": "65009b95b4b12c0018341566gate-2024-computer-science-and-it-super-1500-206926",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f386208a-738f-4939-821d-1903f8d23aa8.png",
+    "batch_class": "12th+",
+    "batch_exam": "GATE",
+    "batch_name": "GATE 2024 Computer Science & IT Super 1500",
+    "batch_slug": "gate-2024-computer-science-and-it-super-1500-206926",
+    "batch_start_date": "2023-10-15T18:30:00.000Z"
+  },
+  {
+    "_id": "650dbe54201c85f27e26addc",
+    "batch_id": "64948a6f614db90018fb8188mission-isro-2023---computer-science-195960",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/8dd10f28-e08c-4ebe-9513-9f1b17386920.png",
+    "batch_class": "12th+",
+    "batch_exam": "GATE",
+    "batch_name": "Mission ISRO 2023 - Computer Science",
+    "batch_slug": "mission-isro-2023---computer-science-195960",
+    "batch_start_date": "2023-06-30T18:30:00.000Z"
+  },
+  {
+    "_id": "650dbfad201c85f27e26e493",
+    "batch_id": "6412aa4f0dde1d00187abf1fnic---param-728231",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/927e6f12-7f98-42b3-a13e-49a3bf95326e.png",
+    "batch_class": "12th+",
+    "batch_exam": "GATE",
+    "batch_name": "NIC - Param",
+    "batch_slug": "nic---param-728231",
+    "batch_start_date": "2023-04-02T18:30:00.000Z"
+  },
+  {
+    "_id": "6512f385201c85f27eca27d1",
+    "batch_id": "63f750a9c62e4c00186d8e1cshreshth-2-0-gate---2025-computer-science-weekday--hinglish--671549",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/746c1973-2271-4c03-a264-8d2df10b1ba1.png",
+    "batch_class": "12th+",
+    "batch_exam": "GATE",
+    "batch_name": "Shreshth 2.0 GATE - 2025 Computer Science Weekday (Hinglish)",
+    "batch_slug": "shreshth-2-0-gate---2025-computer-science-weekday--hinglish--671549",
+    "batch_start_date": "2023-03-19T18:30:00.000Z"
+  },
+  {
+    "_id": "6543105d201c85f27e672732",
+    "batch_id": "63821ebabb5fae0018c0b306parakram-gate-2024-batch---b-mechanical-weekday--hinglish--643302",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/d877acdc-88a9-4e86-afae-2b59d690f0cc.png",
+    "batch_class": "12th+",
+    "batch_exam": "GATE",
+    "batch_name": "Parakram GATE-2024 Batch - B Mechanical Weekday (Hinglish)",
+    "batch_slug": "parakram-gate-2024-batch---b-mechanical-weekday--hinglish--643302",
+    "batch_start_date": "2022-12-20T18:30:00.000Z"
+  },
+  {
+    "_id": "654ddc55201c85f27eea0480",
+    "batch_id": "638256f3d59b170018bbb79fparakram-gate-2024-batch---b-computer-science-weekend--hinglish--419628",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9ae8f780-2208-4bc5-be77-cb5592221748.png",
+    "batch_class": "12th+",
+    "batch_exam": "GATE",
+    "batch_name": "Parakram GATE-2024 Batch - B Computer Science Weekend (Hinglish)",
+    "batch_slug": "parakram-gate-2024-batch---b-computer-science-weekend--hinglish--419628",
+    "batch_start_date": "2022-12-03T18:30:00.000Z"
+  },
+  {
+    "_id": "650d1f4f201c85f27e1165e9",
+    "batch_id": "635a41bee8089e00182da5ddgate-wallah--english--668068",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c4b376f3-4c61-425c-ba04-db2bfe56be57.png",
+    "batch_class": "12th+",
+    "batch_exam": "GATE",
+    "batch_name": "GATE Wallah (English)",
+    "batch_slug": "gate-wallah--english--668068",
+    "batch_start_date": "2022-10-25T18:30:00.000Z"
+  },
+  {
+    "_id": "652fd33c201c85f27ec16cad",
+    "batch_id": "632dda42f7b73200181b5ea5parakram-gate-2024-computer-science-weekday--hinglish--613873",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c33d85f8-6659-4fcd-8e13-481fd436c001.png",
+    "batch_class": "12th+",
+    "batch_exam": "GATE",
+    "batch_name": "Parakram GATE 2024 Computer science Weekday (Hinglish)",
+    "batch_slug": "parakram-gate-2024-computer-science-weekday--hinglish--613873",
+    "batch_start_date": "2022-10-09T18:30:00.000Z"
+  },
+  {
+    "_id": "650d1f0a201c85f27e115bc4",
+    "batch_id": "632d9a507de90e001894bd78gate-crash-course-2023-mechanical-768359",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/7dd050ca-4659-4768-9327-4245426a4bd6.png",
+    "batch_class": "12th+",
+    "batch_exam": "GATE",
+    "batch_name": "GATE Crash Course 2023 Mechanical",
+    "batch_slug": "gate-crash-course-2023-mechanical-768359",
+    "batch_start_date": "2022-10-02T18:30:00.000Z"
+  },
+  {
+    "_id": "650d1f18201c85f27e115d92",
+    "batch_id": "632db45f50ffa500116067b7gate-crash-course-2023-civil-862188",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/3b458612-d4cb-46fd-ac3e-679a92d30076.png",
+    "batch_class": "12th+",
+    "batch_exam": "GATE",
+    "batch_name": "GATE Crash Course 2023 Civil",
+    "batch_slug": "gate-crash-course-2023-civil-862188",
+    "batch_start_date": "2022-10-02T18:30:00.000Z"
+  },
+  {
+    "_id": "650d1f27201c85f27e116010",
+    "batch_id": "632dbf534173180019b500e1gate-crash-course-2023-electrical-537559",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0c928a95-d22b-464b-9741-ce20c506f256.png",
+    "batch_class": "12th+",
+    "batch_exam": "GATE",
+    "batch_name": "GATE Crash Course 2023 Electrical",
+    "batch_slug": "gate-crash-course-2023-electrical-537559",
+    "batch_start_date": "2022-10-02T18:30:00.000Z"
+  },
+  {
+    "_id": "650d1f34201c85f27e1161e3",
+    "batch_id": "632dc19c35a2aa0019379df6gate-crash-course-2023-electronics-208534",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/a2c1ccbc-d6c1-4042-b1f0-d0adf65c31d1.png",
+    "batch_class": "12th+",
+    "batch_exam": "GATE",
+    "batch_name": "GATE Crash Course 2023 Electronics",
+    "batch_slug": "gate-crash-course-2023-electronics-208534",
+    "batch_start_date": "2022-10-02T18:30:00.000Z"
+  },
+  {
+    "_id": "650d1f41201c85f27e1163fa",
+    "batch_id": "632dc2b3ab439e001868d585gate-crash-course-2023-computer-science-316852",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/549ba811-fed6-4698-9de6-2b9465f5a60d.png",
+    "batch_class": "12th+",
+    "batch_exam": "GATE",
+    "batch_name": "GATE Crash Course 2023 Computer science",
+    "batch_slug": "gate-crash-course-2023-computer-science-316852",
+    "batch_start_date": "2022-10-02T18:30:00.000Z"
   }
 ]
