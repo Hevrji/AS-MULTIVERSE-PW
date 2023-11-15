@@ -848,5 +848,65 @@
     "batch_name": "Lakshya 11th JEE Rapid Revision Course 2024",
     "batch_slug": "lakshya-11th-jee-rapid-revision-course-2024-189220",
     "batch_start_date": "2023-07-16T18:30:00.000Z"
+  },
+  {
+    "_id": "650bd47c201c85f27ee547e8",
+    "batch_id": "64c7a459c1549000181b863cnda-shaurya-1-0--2024-462660",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/dd41652e-bf66-44fe-bcc4-1a110a107d41.jpeg",
+    "batch_class": "12th+",
+    "batch_exam": "NDA",
+    "batch_name": "NDA Shaurya 1.0, 2024",
+    "batch_slug": "nda-shaurya-1-0--2024-462660",
+    "batch_start_date": "2023-09-24T18:30:00.000Z"
+  },
+  {
+    "_id": "6516ee31201c85f27e45ca93",
+    "batch_id": "64c7a459c1549000181b863cnda-shaurya-1-0-2024-604783",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/595c3b67-dc5a-48ff-a046-9f5c99cf198c.png",
+    "batch_class": "12th+",
+    "batch_exam": "NDA",
+    "batch_name": "NDA Shaurya 1.0 2024",
+    "batch_slug": "nda-shaurya-1-0-2024-604783",
+    "batch_start_date": "2023-09-24T18:30:00.000Z"
+  },
+  {
+    "_id": "650be027201c85f27ee77ee6",
+    "batch_id": "648c0c9f21fc890018dbff66nda-foundation-375866",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/1c32f83a-a27e-405c-960f-cf01e76c8d18.png",
+    "batch_class": "12th+",
+    "batch_exam": "NDA",
+    "batch_name": "NDA Foundation",
+    "batch_slug": "nda-foundation-375866",
+    "batch_start_date": "2023-07-09T18:30:00.000Z"
+  },
+  {
+    "_id": "6511b7fd201c85f27ea56d8c",
+    "batch_id": "645cf6c3164f930018329d10cds-2-viraat-2023-252669",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/bb1cb90c-7579-4eb0-9b0d-48867213cff0.png",
+    "batch_class": "12th+",
+    "batch_exam": "NDA",
+    "batch_name": "CDS-2 Viraat 2023",
+    "batch_slug": "cds-2-viraat-2023-252669",
+    "batch_start_date": "2023-05-19T18:30:00.000Z"
+  },
+  {
+    "_id": "650c6131201c85f27efa85a7",
+    "batch_id": "63f34a481075350018d14aa6shaurya-2-0-046962",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/fe0e91c3-484f-46c1-b838-e53a0c8e7c75.png",
+    "batch_class": "12th+",
+    "batch_exam": "NDA",
+    "batch_name": "Shaurya 2.0",
+    "batch_slug": "shaurya-2-0-046962",
+    "batch_start_date": "2023-04-24T18:30:00.000Z"
+  },
+  {
+    "_id": "65423fe6201c85f27e4a97bc",
+    "batch_id": "63d8b94ed512ab00189fea54fast-track-shaurya-nda-crash-course-441840",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/31426d83-77d5-413f-96bd-cd7d8a66fd5d.png",
+    "batch_class": "12th+",
+    "batch_exam": "NDA",
+    "batch_name": "Fast Track Shaurya NDA  Crash Course",
+    "batch_slug": "fast-track-shaurya-nda-crash-course-441840",
+    "batch_start_date": "2023-02-09T18:30:00.000Z"
   }
 ]
