@@ -62,5 +62,13 @@
   {
     "batch_class": "12th+",
     "batch_exam": "SSC"
+  },
+  {
+    "batch_class": "12th",
+    "batch_exam": "COMMERCE"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "COMMERCE"
   }
 ]
