@@ -1088,5 +1088,85 @@
     "batch_name": "Shodh Batch for Physical Sciences",
     "batch_slug": "shodh-batch-for-physical-sciences-990589",
     "batch_start_date": "2023-02-12T18:30:00.000Z"
+  },
+  {
+    "_id": "6551cd72201c85f27e6b522f",
+    "batch_id": "63f51e0b6b9b4903f24ec71amaths-foundation-batch-268237",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/6867e640-2b7c-47cf-96eb-be4a90a1fad4.png",
+    "batch_class": "12th+",
+    "batch_exam": "SSC",
+    "batch_name": "Maths Foundation Batch",
+    "batch_slug": "maths-foundation-batch-268237",
+    "batch_start_date": "2023-11-04T18:30:00.000Z"
+  },
+  {
+    "_id": "6512965f201c85f27ebe97c8",
+    "batch_id": "647f0b061236300018b18a5akarmath-ssc-mts-2023-816886",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/df70fc3f-39af-4dfd-80cb-26903a050af7.jpeg",
+    "batch_class": "12th+",
+    "batch_exam": "SSC",
+    "batch_name": "Karmath SSC MTS 2023",
+    "batch_slug": "karmath-ssc-mts-2023-816886",
+    "batch_start_date": "2023-06-18T18:30:00.000Z"
+  },
+  {
+    "_id": "650d7664201c85f27e1cf566",
+    "batch_id": "6479d72048710e00187997canishchay-4-0-chsl--ssc-wallah---निश्चय-4-0--569692",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/6472a932-635c-4018-afba-acba8ef1e2d4.jpeg",
+    "batch_class": "12th+",
+    "batch_exam": "SSC",
+    "batch_name": "Nishchay 4.0 CHSL (SSC Wallah) (निश्चय 4.0)",
+    "batch_slug": "nishchay-4-0-chsl--ssc-wallah---निश्चय-4-0--569692",
+    "batch_start_date": "2023-06-12T18:30:00.000Z"
+  },
+  {
+    "_id": "650d76d5201c85f27e1d0f29",
+    "batch_id": "63b2aefed5240f0018369524ssc-cgl-2023-24---g-s--special-642015",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9325388a-baf0-4f2e-bb61-a29045173873.jpeg",
+    "batch_class": "12th+",
+    "batch_exam": "SSC",
+    "batch_name": "SSC CGL 2023-24 - G.S. Special",
+    "batch_slug": "ssc-cgl-2023-24---g-s--special-642015",
+    "batch_start_date": "2023-05-29T18:30:00.000Z"
+  },
+  {
+    "_id": "651b00d0201c85f27ed6a62c",
+    "batch_id": "6458eba1f5a4ca00184d6e18ssc-chsl-2023-nishchay-3-0--निश्चय--071401",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4d67fd5b-167d-4925-9f15-212b4291c7a9.jpeg",
+    "batch_class": "12th+",
+    "batch_exam": "SSC",
+    "batch_name": "SSC CHSL 2023 Nishchay 3.0 (निश्चय)",
+    "batch_slug": "ssc-chsl-2023-nishchay-3-0--निश्चय--071401",
+    "batch_start_date": "2023-05-15T18:30:00.000Z"
+  },
+  {
+    "_id": "650d2585201c85f27e1255c1",
+    "batch_id": "6362890c79ed8900187a14f7ssc-gd-constable-video-course-696867",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/eb82793c-b12f-490f-a792-7bee7998c98e.png",
+    "batch_class": "12th+",
+    "batch_exam": "SSC",
+    "batch_name": "SSC GD Constable Video Course",
+    "batch_slug": "ssc-gd-constable-video-course-696867",
+    "batch_start_date": "2023-04-10T18:30:00.000Z"
+  },
+  {
+    "_id": "650be00d201c85f27ee76ce6",
+    "batch_id": "63c645262803a6012531ff59ssc-mts-prachand--प्रचंड--677178",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/790cbfe5-93be-4ca3-b6aa-b2834c3c302b.png",
+    "batch_class": "12th+",
+    "batch_exam": "SSC",
+    "batch_name": "SSC MTS Prachand (प्रचंड)",
+    "batch_slug": "ssc-mts-prachand--प्रचंड--677178",
+    "batch_start_date": "2023-01-26T18:30:00.000Z"
+  },
+  {
+    "_id": "650d25d5201c85f27e1267aa",
+    "batch_id": "639077678dfcef00444e379dssc-gd-maths-क्रैश-कोर्स--20-दिन-20-चैप्टर-282492",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/19b7199e-c9ff-4586-8942-4762a5524d08.png",
+    "batch_class": "12th+",
+    "batch_exam": "SSC",
+    "batch_name": "SSC GD MATHS क्रैश कोर्स,  20 दिन 20 चैप्टर",
+    "batch_slug": "ssc-gd-maths-क्रैश-कोर्स--20-दिन-20-चैप्टर-282492",
+    "batch_start_date": "2022-12-11T18:30:00.000Z"
   }
 ]
