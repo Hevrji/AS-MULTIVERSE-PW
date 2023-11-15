@@ -14,7 +14,7 @@
     "batch_id": "639ca745ebe2f702757b2e7ejee-ultimate-crash-course-184651",
     "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/53b28fc3-05fa-411b-b533-92c09e858787.jpeg",
     "batch_class": "12+",
-    "batch_exam": "IIT-JEE",
+    "batch_exam": "IIT/JEE",
     "batch_name": "JEE ULTIMATE CRASH COURSE",
     "batch_slug": "jee-ultimate-crash-course-184651",
     "batch_start_date": "2023-01-04T18:30:00.000Z"
@@ -1068,5 +1068,25 @@
     "batch_name": "Prahar (UPSC 2023)",
     "batch_slug": "prahar--upsc-2023--019384",
     "batch_start_date": "2022-11-06T18:30:00.000Z"
+  },
+  {
+    "_id": "651996e4201c85f27ea3b16c",
+    "batch_id": "63e099d0b0c9f70018caf4basaakaar-batch-for-iit-jam-physics-246702",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9d5d6d4d-8a2a-44b2-b751-6ae4dfde984e.jpg",
+    "batch_class": "12th+",
+    "batch_exam": "IIT JAM & CSIR NET",
+    "batch_name": "Saakaar Batch for IIT JAM Physics",
+    "batch_slug": "saakaar-batch-for-iit-jam-physics-246702",
+    "batch_start_date": "2023-02-19T18:30:00.000Z"
+  },
+  {
+    "_id": "651329ed201c85f27ed10904",
+    "batch_id": "63d8a952e07e2a0019029711shodh-batch-for-physical-sciences-990589",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/9c8506db-7b7c-46bb-8112-35d84ebce717.jpg",
+    "batch_class": "12th+",
+    "batch_exam": "IIT JAM & CSIR NET",
+    "batch_name": "Shodh Batch for Physical Sciences",
+    "batch_slug": "shodh-batch-for-physical-sciences-990589",
+    "batch_start_date": "2023-02-12T18:30:00.000Z"
   }
 ]
