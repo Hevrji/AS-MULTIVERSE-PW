@@ -828,5 +828,25 @@
     "batch_name": "Junoon 2024",
     "batch_slug": "junoon-2024-531612",
     "batch_start_date": "2023-07-02T18:30:00.000Z"
+  },
+  {
+    "_id": "650c4026201c85f27ef54e67",
+    "batch_id": "64a572721a7eda00183302d8lakshya-11th-neet-rapid-revision-course-112980",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/38e5d6df-b9a1-492d-b7da-41111bcbc74c.png",
+    "batch_class": "12th",
+    "batch_exam": "NEET",
+    "batch_name": "Lakshya 11th NEET Rapid Revision Course",
+    "batch_slug": "lakshya-11th-neet-rapid-revision-course-112980",
+    "batch_start_date": "2023-07-16T18:30:00.000Z"
+  },
+  {
+    "_id": "650ff864201c85f27e6ca535",
+    "batch_id": "64a57121b7f27800182c1098lakshya-11th-jee-rapid-revision-course-2024-189220",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/f093d342-df71-4348-9c0b-f562addb1cda.jpg",
+    "batch_class": "12th",
+    "batch_exam": "IIT/JEE",
+    "batch_name": "Lakshya 11th JEE Rapid Revision Course 2024",
+    "batch_slug": "lakshya-11th-jee-rapid-revision-course-2024-189220",
+    "batch_start_date": "2023-07-16T18:30:00.000Z"
   }
 ]
