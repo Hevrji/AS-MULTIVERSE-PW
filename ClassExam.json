@@ -46,5 +46,9 @@
   {
     "batch_class": "12th+",
     "batch_exam": "NDA"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "GATE"
   }
 ]
