@@ -1158,5 +1158,45 @@
     "batch_name": "SSC GD MATHS क्रैश कोर्स,  20 दिन 20 चैप्टर",
     "batch_slug": "ssc-gd-maths-क्रैश-कोर्स--20-दिन-20-चैप्टर-282492",
     "batch_start_date": "2022-12-11T18:30:00.000Z"
+  },
+  {
+    "_id": "653bbc48201c85f27e618f6d",
+    "batch_id": "64b12a40a96c770018fe4bc2kautilya-2-0--state-board--203181",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e219bd01-488c-48f2-b11c-062b42ad53ab.png",
+    "batch_class": "12th",
+    "batch_exam": "COMMERCE",
+    "batch_name": "Kautilya 2.0 (State Board)",
+    "batch_slug": "kautilya-2-0--state-board--203181",
+    "batch_start_date": "2023-07-02T18:30:00.000Z"
+  },
+  {
+    "_id": "6537e6ef201c85f27edb0832",
+    "batch_id": "63ef61b72952f00018df80d3kautilya-609360",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/28712398-a46d-48bc-abc6-00c81f445962.png",
+    "batch_class": "12th",
+    "batch_exam": "COMMERCE",
+    "batch_name": "Kautilya",
+    "batch_slug": "kautilya-609360",
+    "batch_start_date": "2023-04-02T18:30:00.000Z"
+  },
+  {
+    "_id": "651e7656201c85f27e520765",
+    "batch_id": "64e4eb0dbb7ec70018ff2d42kautilya-3-0-825677",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/ded5d595-7c99-44ad-962a-4dc657236688.png",
+    "batch_class": "12th+",
+    "batch_exam": "COMMERCE",
+    "batch_name": "Kautilya 3.0",
+    "batch_slug": "kautilya-3-0-825677",
+    "batch_start_date": "2023-09-10T18:30:00.000Z"
+  },
+  {
+    "_id": "651e76fe201c85f27e5222cb",
+    "batch_id": "647f053acb1c920018646c28kautilya-2-0-cbse-board-181612",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4bddfc24-51ab-4f78-bc4d-ad4caae48e22.png",
+    "batch_class": "12th+",
+    "batch_exam": "COMMERCE",
+    "batch_name": "Kautilya 2.0 CBSE Board",
+    "batch_slug": "kautilya-2-0-cbse-board-181612",
+    "batch_start_date": "2023-07-02T18:30:00.000Z"
   }
 ]
