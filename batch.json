@@ -1038,5 +1038,25 @@
     "batch_name": "GATE Crash Course 2023 Computer science",
     "batch_slug": "gate-crash-course-2023-computer-science-316852",
     "batch_start_date": "2022-10-02T18:30:00.000Z"
+  },
+  {
+    "_id": "65211132201c85f27eafc4a0",
+    "batch_id": "6342a29af501510019a7e9afsankalp--upsc-2024--167831",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e4dcfe52-e3e8-463b-a58f-413f1e5f18bd.png",
+    "batch_class": "12th+",
+    "batch_exam": "UPSC",
+    "batch_name": "Sankalp (UPSC 2024)",
+    "batch_slug": "sankalp--upsc-2024--167831",
+    "batch_start_date": "2022-11-14T18:30:00.000Z"
+  },
+  {
+    "_id": "650fbbb0201c85f27e647fbf",
+    "batch_id": "633e6d5c1f83b900115c402eprahar--upsc-2023--019384",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c2cb1484-09aa-4eb7-b981-c24912a63ac6.png",
+    "batch_class": "12th+",
+    "batch_exam": "UPSC",
+    "batch_name": "Prahar (UPSC 2023)",
+    "batch_slug": "prahar--upsc-2023--019384",
+    "batch_start_date": "2022-11-06T18:30:00.000Z"
   }
 ]
