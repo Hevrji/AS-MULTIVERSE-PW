@@ -1198,5 +1198,25 @@
     "batch_name": "Kautilya 2.0 CBSE Board",
     "batch_slug": "kautilya-2-0-cbse-board-181612",
     "batch_start_date": "2023-07-02T18:30:00.000Z"
+  },
+  {
+    "_id": "650d514d201c85f27e181630",
+    "batch_id": "63e09a6ca2e0740019df5b04saakaar-batch-for-iit-jam-mathematics-189157",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e24526ca-2b59-485f-a76c-b0efea30741a.jpg",
+    "batch_class": "12th+",
+    "batch_exam": "IIT JAM & CSIR NET",
+    "batch_name": "Saakaar Batch for IIT JAM Mathematics",
+    "batch_slug": "saakaar-batch-for-iit-jam-mathematics-189157",
+    "batch_start_date": "2023-02-19T18:30:00.000Z"
+  },
+  {
+    "_id": "65147722201c85f27ef7fa3f",
+    "batch_id": "63e09964540ae90018b93495saakaar-batch-for-iit-jam-chemistry-053831",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/b4919ece-ce9d-47bf-8034-d73bb03a0b8e.jpg",
+    "batch_class": "12th+",
+    "batch_exam": "IIT JAM & CSIR NET",
+    "batch_name": "Saakaar Batch for IIT JAM Chemistry",
+    "batch_slug": "saakaar-batch-for-iit-jam-chemistry-053831",
+    "batch_start_date": "2023-02-19T18:30:00.000Z"
   }
 ]
