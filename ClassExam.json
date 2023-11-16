@@ -1,1 +1,74 @@
-[]
+[
+  {
+    "batch_class": "7th",
+    "batch_exam": "FOUNDATION"
+  },
+  {
+    "batch_class": "8th",
+    "batch_exam": "FOUNDATION"
+  },
+  {
+    "batch_class": "9th",
+    "batch_exam": "FOUNDATION"
+  },
+  {
+    "batch_class": "10th",
+    "batch_exam": "BOARD EXAM"
+  },
+  {
+    "batch_class": "12th",
+    "batch_exam": "BOARD EXAM"
+  },
+  {
+    "batch_class": "11th",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "batch_class": "12th",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "IIT/JEE"
+  },
+  {
+    "batch_class": "11th",
+    "batch_exam": "NEET"
+  },
+  {
+    "batch_class": "12th",
+    "batch_exam": "NEET"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "NEET"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "NDA"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "GATE"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "UPSC"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "IIT JAM & CSIR NET"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "SSC"
+  },
+  {
+    "batch_class": "12th",
+    "batch_exam": "COMMERCE"
+  },
+  {
+    "batch_class": "12th+",
+    "batch_exam": "COMMERCE"
+  }
+]
