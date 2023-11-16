@@ -1218,5 +1218,45 @@
     "batch_name": "Saakaar Batch for IIT JAM Chemistry",
     "batch_slug": "saakaar-batch-for-iit-jam-chemistry-053831",
     "batch_start_date": "2023-02-19T18:30:00.000Z"
+  },
+  {
+    "_id": "65115011201c85f27e973bca",
+    "batch_id": "64904af7b30b550018313787ca-intermediate-udesh-fastrack-nov-group-2-620242",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e3e377ff-7255-4d2c-a950-a714d5debb84.png",
+    "batch_class": "12th+",
+    "batch_exam": "CA",
+    "batch_name": "CA Intermediate Udesh Fastrack Nov Group 2",
+    "batch_slug": "ca-intermediate-udesh-fastrack-nov-group-2-620242",
+    "batch_start_date": "2023-07-14T18:30:00.000Z"
+  },
+  {
+    "_id": "65145a9e201c85f27ef46e11",
+    "batch_id": "63d1529906d9b20018cb0d3aca-intermediate-udesh-fastrack-advanced-accounting--group-2--597696",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c7e4699a-403f-407c-96a1-533dea13321d.png",
+    "batch_class": "12th+",
+    "batch_exam": "CA",
+    "batch_name": "CA Intermediate Udesh Fastrack Advanced Accounting (Group 2)",
+    "batch_slug": "ca-intermediate-udesh-fastrack-advanced-accounting--group-2--597696",
+    "batch_start_date": "2023-07-07T18:30:00.000Z"
+  },
+  {
+    "_id": "650c2512201c85f27ef1c805",
+    "batch_id": "63b59b082cdbbe00182caf0fudesh-regular-group-2-nov-891442",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/317c4dce-588a-4524-b67c-78f5b69dcda4.png",
+    "batch_class": "12th+",
+    "batch_exam": "CA",
+    "batch_name": "Udesh Regular Group 2 Nov",
+    "batch_slug": "udesh-regular-group-2-nov-891442",
+    "batch_start_date": "2023-06-01T18:30:00.000Z"
+  },
+  {
+    "_id": "650c289b201c85f27ef24119",
+    "batch_id": "63b599ce9b14b00018566c45udesh-regular-group-1-nov-044153",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/67e8c73c-8396-4053-a2d2-f0ad478cc4b8.png",
+    "batch_class": "12th+",
+    "batch_exam": "CA",
+    "batch_name": "Udesh Regular Group 1 Nov",
+    "batch_slug": "udesh-regular-group-1-nov-044153",
+    "batch_start_date": "2023-02-19T18:30:00.000Z"
   }
 ]
