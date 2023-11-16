@@ -1258,5 +1258,65 @@
     "batch_name": "Udesh Regular Group 1 Nov",
     "batch_slug": "udesh-regular-group-1-nov-044153",
     "batch_start_date": "2023-02-19T18:30:00.000Z"
+  },
+  {
+    "_id": "6518fdc4201c85f27e8c9343",
+    "batch_id": "63d90e13651bad001873200abank-mahapack--1-year--159163",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c44ae2ed-a3c8-4e71-b4be-2a7a6e1544e4.jpeg",
+    "batch_class": "12th+",
+    "batch_exam": "Banking",
+    "batch_name": "Bank Mahapack (1 Year)",
+    "batch_slug": "bank-mahapack--1-year--159163",
+    "batch_start_date": "2023-01-30T18:30:00.000Z"
+  },
+  {
+    "_id": "6518fdac201c85f27e8c8fc9",
+    "batch_id": "63fdd321a77c980018c2657abank-mahavishwas-pack--2-year-subscription--812519",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/93817fb1-d691-475a-b971-75259e5d66bb.jpeg",
+    "batch_class": "12th+",
+    "batch_exam": "Banking",
+    "batch_name": "Bank Mahavishwas Pack (2-Year Subscription)",
+    "batch_slug": "bank-mahavishwas-pack--2-year-subscription--812519",
+    "batch_start_date": "2023-02-27T18:30:00.000Z"
+  },
+  {
+    "_id": "65192552201c85f27e927cf3",
+    "batch_id": "64099b4efbe8de001860ac20achievers-sbi-po-complete-batch-for--pre-mains--334826",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/e56adab7-e016-4947-81f6-6080ab4b5a5a.png",
+    "batch_class": "12th+",
+    "batch_exam": "Banking",
+    "batch_name": "Achievers SBI PO Complete batch for (Pre+Mains)",
+    "batch_slug": "achievers-sbi-po-complete-batch-for--pre-mains--334826",
+    "batch_start_date": "2023-03-24T18:30:00.000Z"
+  },
+  {
+    "_id": "6516a909201c85f27e3b153e",
+    "batch_id": "64773fbbc32b8c0018cc5375banking-quant-complete-foundation-872366",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4b3e6a0c-9c28-4fa8-a948-0d3487e45209.jpg",
+    "batch_class": "12th+",
+    "batch_exam": "Banking",
+    "batch_name": "Banking Quant Complete Foundation",
+    "batch_slug": "banking-quant-complete-foundation-872366",
+    "batch_start_date": "2023-05-31T18:30:00.000Z"
+  },
+  {
+    "_id": "65168a98201c85f27e3676b3",
+    "batch_id": "648a08271a58dd0018e6762avardaan-reasoning-video-course-pre-mains-846069",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0c1fe23a-f13b-4a02-a11d-d698cf369cd8.png",
+    "batch_class": "12th+",
+    "batch_exam": "Banking",
+    "batch_name": "Vardaan Reasoning Video Course Pre+Mains",
+    "batch_slug": "vardaan-reasoning-video-course-pre-mains-846069",
+    "batch_start_date": "2023-06-15T18:30:00.000Z"
+  },
+  {
+    "_id": "650e9f1f201c85f27e419bb0",
+    "batch_id": "64c7aa764a4010001851432fcds-viraat-1-0-2024-096201",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/c9abbf37-e802-44a5-9af7-306de3c39cb1.png",
+    "batch_class": "12th+",
+    "batch_exam": "Banking",
+    "batch_name": "CDS Viraat 1.0,2024",
+    "batch_slug": "cds-viraat-1-0-2024-096201",
+    "batch_start_date": "2023-09-24T18:30:00.000Z"
   }
 ]
