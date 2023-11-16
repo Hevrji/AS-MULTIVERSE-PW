@@ -10,6 +10,26 @@
     "batch_start_date": "2022-04-10T18:30:00.000Z"
   },
   {
+    "_id": "650ea2d2201c85f27e42161d",
+    "batch_id": "642a6e9937403400184a9e65ashoka-batch-c---ae-je-civil-852627",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/4036a87e-1dae-4faa-ae4f-c421dd62fc1f.png",
+    "batch_class": "12th+",
+    "batch_exam": "AE/JE",
+    "batch_name": "Ashoka Batch C - AE/JE Civil",
+    "batch_slug": "ashoka-batch-c---ae-je-civil-852627",
+    "batch_start_date": "2023-04-16T18:30:00.000Z"
+  },
+  {
+    "_id": "65114389201c85f27e958747",
+    "batch_id": "63c697f7fad3c800183d4c19ashoka---ae-je-electrical-723330",
+    "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/0cc6086c-5f03-4a16-a206-3b23d449928a.jpg",
+    "batch_class": "12th+",
+    "batch_exam": "AE/JE",
+    "batch_name": "Ashoka - AE/JE Electrical",
+    "batch_slug": "ashoka---ae-je-electrical-723330",
+    "batch_start_date": "2023-01-26T18:30:00.000Z"
+  },
+  {
     "_id": "650db68b201c85f27e258d7f",
     "batch_id": "639ca745ebe2f702757b2e7ejee-ultimate-crash-course-184651",
     "batch_banner": "https://d2bps9p1kiy4ka.cloudfront.net/5eb393ee95fab7468a79d189/53b28fc3-05fa-411b-b533-92c09e858787.jpeg",
